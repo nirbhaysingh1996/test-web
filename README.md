@@ -16,4 +16,4 @@ Their should be a Rest API for Android Developers to login, signup, get contents
 
 
 **All built using laravel.**
-**Make use of most of laravel features**
+**Make use of most of laravel's features**
