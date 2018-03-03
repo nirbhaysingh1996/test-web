@@ -15,4 +15,5 @@ Following will be the work flow :
 Their should be a Rest API for Android Developers to login, signup, get contents, write content and comment.
 
 
-**All built in laravel.**
+**All built using laravel.**
+**Make use of most of laravel features**
